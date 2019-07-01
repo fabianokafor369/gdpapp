@@ -1,0 +1,12 @@
+name: GDPtest
+title: GDPtest
+username:
+account: fabianokafor369
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 973961
+bundleId: 2146548
+url: https://fabianokafor369.shinyapps.io/GDPtest/
+when: 1560286003.9147
+asMultiple: FALSE
+asStatic: FALSE
